@@ -24,7 +24,7 @@ body {
 .slide {
   position: relative;
   height: 80vh;
-  border-radius: 20px;
+  border-radius: 10px;
   margin: 10px;
   cursor: pointer;
   color: white;
@@ -46,6 +46,8 @@ body {
 
 .slide.active {
   flex: 10;
+  box-shadow: 0 1px 2px whitesmoke;
+  border-radius: 20px;
 }
 
 .slide.active h3 {
