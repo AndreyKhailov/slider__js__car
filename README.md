@@ -1,4 +1,4 @@
-# Clicker-game
+# Slider cars
 
 <p align="center"><img src="https://github.com/AndreyKhailov/slider__js__car/blob/master/cars%20slider.gif" max-width="800" alt="gif"></p>
 
